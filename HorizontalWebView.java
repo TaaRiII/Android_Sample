@@ -19,7 +19,7 @@ import com.folioreader.activity.FolioActivity;
 import com.folioreader.fragments.HorizontalPageFragment;
 
 /**
- * Author: Muhammad Shahab
+ * Author: Tahir
  * Date: 5/8/17.
  * Description: Customize WebView class, It scroll the WebView horizontally
  *              page by page and restrict WebView to scroll vertically.
